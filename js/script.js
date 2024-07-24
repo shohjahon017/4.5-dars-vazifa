@@ -21,6 +21,19 @@
 // }
 // console.log(newArr);
 
+//4-masala
+// let sum = 0;
+// let arr = [4, 5, 3, 6, 4, 9, 15, 25];
+// for (let i = 0; i < arr.length; i++) {
+//   sum += arr[i];
+// }
+// console.log(sum);
+
+//5-masala
+let arr = [15, 2, 6, 15, 85, 4, "xayr"];
+arr.push("salom");
+console.log(arr);
+
 //23-masala
 // let arr = [5, 12, 26, 3, 6,  48, 9, 10];
 // console.log(arr.length);
